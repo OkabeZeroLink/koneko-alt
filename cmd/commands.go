@@ -9,7 +9,7 @@ import (
 
 var Nyaa = &cobra.Command{
 	Use:   "nyaa",
-	Short: "Browse nyaa.si",
+	Short: "Browse nyaa.land",
 	Long:  `koneko nyaa`,
 	Run: func(cmd *cobra.Command, args []string) {
 		tui.Launch("nyaa")
@@ -18,7 +18,7 @@ var Nyaa = &cobra.Command{
 
 var Sukebei = &cobra.Command{
 	Use:   "sukebei",
-	Short: "Browse sukebei.nyaa.si",
+	Short: "Browse fap.iss.one",
 	Long:  `koneko sukebei`,
 	Run: func(cmd *cobra.Command, args []string) {
 		tui.Launch("sukebei")
