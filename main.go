@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	cmd "github.com/irevenko/koneko/cmd"
+	cmd "github.com/OkabeZeroLink/koneko-alt/cmd"
 )
 
 func main() {
