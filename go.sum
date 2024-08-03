@@ -198,8 +198,8 @@ github.com/hashicorp/serf v0.8.2/go.mod h1:6hOLApaqBFA1NXqRQAsxw9QxuDEvNxSQRwA/J
 github.com/ianlancetaylor/demangle v0.0.0-20181102032728-5e5cf60278f6/go.mod h1:aSSvb/t6k1mPoxDqO4vJh6VOCGPwU4O0C2/Eqndh1Sc=
 github.com/inconshreveable/mousetrap v1.0.0 h1:Z8tu5sraLXCXIcARxBp/8cbvlwVa7Z1NHg9XEKhtSvM=
 github.com/inconshreveable/mousetrap v1.0.0/go.mod h1:PxqpIevigyE2G7u3NXJIT2ANytuPF1OarO4DADm73n8=
-github.com/irevenko/go-nyaa v0.0.0-20210402073750-8f5d22bac820 h1:Qp8zFuYSrkOyFYwXutqumtxP09CPtMqyqQf3SPikQNM=
-github.com/irevenko/go-nyaa v0.0.0-20210402073750-8f5d22bac820/go.mod h1:izquthArBTZgICV7wvvnFm6gjfpTtD7OOJtlhFn+eHg=
+github.com/OkabeZeroLink/go-nyaa-alt v0.0.0-20210402073750-8f5d22bac820 h1:Qp8zFuYSrkOyFYwXutqumtxP09CPtMqyqQf3SPikQNM=
+github.com/OkabeZeroLink/go-nyaa-alt v0.0.0-20210402073750-8f5d22bac820/go.mod h1:izquthArBTZgICV7wvvnFm6gjfpTtD7OOJtlhFn+eHg=
 github.com/irevenko/octostats v0.0.0-20210322102759-1b4637d700ca h1:ekdEDLVLRCEtaGikLHSXP75bk8PfGlAdF6oOlAcknL4=
 github.com/irevenko/octostats v0.0.0-20210322102759-1b4637d700ca/go.mod h1:FHV+ChJ76Xesp7qr4dyUkbxoNTTF/Rd31RFiP8q4rBA=
 github.com/irevenko/octotui v0.0.0-20210329163033-905c9d9c5982 h1:Yi2so5PZNmlKboMAVlt1+X5FgWsiAoXUkBSkSYKZQf8=
