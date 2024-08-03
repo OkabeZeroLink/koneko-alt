@@ -6,8 +6,8 @@ import (
 	"strings"
 
 	"github.com/gdamore/tcell/v2"
-	h "github.com/irevenko/koneko/helpers"
-	t "github.com/irevenko/koneko/types"
+	h "github.com/OkabeZeroLink/koneko-alt/helpers"
+	t "github.com/OkabeZeroLink/koneko-alt/types"
 	"github.com/rivo/tview"
 )
 
