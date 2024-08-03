@@ -7,7 +7,7 @@ require (
 	github.com/fatih/color v1.10.0
 	github.com/gdamore/tcell v1.4.0
 	github.com/gdamore/tcell/v2 v2.2.0
-	github.com/OkabeZeroLink/go-nyaa-alt v0.0.0-20210402073750-8f5d22bac820
+	github.com/OkabeZeroLink/go-nyaa-alt v0.0.0-20240803031829-10c299eb7d0e
 	github.com/irevenko/octotui v0.0.0-20210329163033-905c9d9c5982 // indirect
 	github.com/rivo/tview v0.0.0-20210312174852-ae9464cc3598
 	github.com/spf13/cobra v1.1.3
