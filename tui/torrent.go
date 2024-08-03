@@ -11,9 +11,9 @@ import (
 	"time"
 
 	"github.com/gdamore/tcell/v2"
-	"github.com/irevenko/go-nyaa/nyaa"
-	h "github.com/irevenko/koneko/helpers"
-	t "github.com/irevenko/koneko/types"
+	"github.com/OkabeZeroLink/go-nyaa-alt/nyaa"
+	h "github.com/OkabeZeroLink/koneko-alt/helpers"
+	t "github.com/OkabeZeroLink/koneko-alt/types"
 	"github.com/rivo/tview"
 )
 
