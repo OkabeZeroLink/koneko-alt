@@ -8,12 +8,13 @@ Data -  <a href="https://github.com/irevenko/go-nyaa">go-nyaa</a> TUI - <a href=
 <img src="_assets/preview.gif">
 
 # Installation 🔨
-```go get -u github.com/irevenko/koneko``` <br>
+```go get -u github.com/OkabeZeroLink/koneko-alt``` <br>
 
-# About koneko ℹ️
+# About koneko-alt ℹ️
 - ✅ Supports ```UNIX``` and ```windows``` 
 - 🚀 Could be faster than the  website because you can mark multiple torrents and download & open them all at once <br>
 <img src="./_assets/marked.png">
+- <Exclusive to this fork> This fork use the .land domain instead of .si domain for nyaa and '''fap.iss.one''' for sukebei incase your ISP block the website
 
 # Usage 🔬
 ```koneko <PROVIDER>``` - ```nyaa``` or ```sukebei``` <br> 
