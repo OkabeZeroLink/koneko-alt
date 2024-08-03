@@ -1,6 +1,6 @@
 package helpers
 
-import t "github.com/irevenko/koneko/types"
+import t "github.com/OkabeZeroLink/koneko-alt/types"
 
 func SliceHas(s []t.MarkedTorrent, item string) bool {
 	for _, v := range s {
