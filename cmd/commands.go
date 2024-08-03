@@ -3,7 +3,7 @@ package cmd
 import (
 	"fmt"
 
-	tui "github.com/irevenko/koneko/tui"
+	tui "github.com/OkabeZeroLink/koneko-alt/tui"
 	"github.com/spf13/cobra"
 )
 
