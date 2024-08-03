@@ -13,8 +13,8 @@ import (
 
 var app = tview.NewApplication()
 
-var nyaaDownload = "https://nyaa.si/download/"
-var sukebeiDownload = "https://sukebei.nyaa.si/download/"
+var nyaaDownload = "https://nyaa.land/download/"
+var sukebeiDownload = "https://fap.iss.one/download/"
 
 var query = ""
 var category = 0
